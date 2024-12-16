@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project focuses on predicting Brent Crude Oil prices using macroeconomic indicators and global events. The primary goal is to build an end-to-end machine learning pipeline in Databricks, leveraging MLOps principles for data preprocessing, model training, deployment, and monitoring.
+This project focuses on predicting Brent Crude Oil prices using macroeconomic indicators and global events. The primary goal is to build an end-to-end machine learning pipeline in **Databricks**, leveraging MLOps principles for data preprocessing, model training, deployment, and monitoring.
 
 Brent Crude Oil is a significant global economic indicator, affecting energy costs, transportation, and manufacturing. Our model aims to enhance forecasting accuracy and provide insights into the factors influencing price fluctuations.
 
